@@ -2,11 +2,13 @@
   Written my own SGD algo for solving Linear Regression problems.
   
 ## Result on Boston Housing Dataset:
-  M_SQ-loss from ImplemetedSGD= 17.43963608653024 
-  M_SQ-loss from SGDRegressor= 17.010850768557532
+  * M_SQ-Loss comparison
+      * *M_SQ-loss from ImplemetedSGD= 17.43963608653024* 
+      * *M_SQ-loss from SGDRegressor= 17.010850768557532*
   
-  Intercept Term from ImplementedSGD= 22.309236273545338 
-  Intercept Term from SGDRegressor= 21.78751453
+  * Intercept term Comparison
+      * *Intercept Term from ImplementedSGD= 22.309236273545338 
+      * *Intercept Term from SGDRegressor= 21.78751453*
   
 ## Dataset Description:
   * Number of Instances: 506
